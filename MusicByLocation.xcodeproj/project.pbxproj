@@ -17,6 +17,7 @@
 		F610567227D0226E00174BC0 /* LocationHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = F610567127D0226E00174BC0 /* LocationHandler.swift */; };
 		F610567527D02EDB00174BC0 /* CLPlacemark.swift in Sources */ = {isa = PBXBuildFile; fileRef = F610567427D02EDA00174BC0 /* CLPlacemark.swift */; };
 		F610567727D0300000174BC0 /* StateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F610567627D0300000174BC0 /* StateController.swift */; };
+		F658EC3327D6AA2400D7813B /* ITunesAdaptor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F658EC3227D6AA2400D7813B /* ITunesAdaptor.swift */; };
 		F6CE38F427D0B9A4005A9A32 /* ArtistResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6CE38F327D0B9A4005A9A32 /* ArtistResponse.swift */; };
 		F6CE38F627D0B9D5005A9A32 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6CE38F527D0B9D5005A9A32 /* Artist.swift */; };
 /* End PBXBuildFile section */
@@ -52,6 +53,7 @@
 		F610567127D0226E00174BC0 /* LocationHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationHandler.swift; sourceTree = "<group>"; };
 		F610567427D02EDA00174BC0 /* CLPlacemark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CLPlacemark.swift; sourceTree = "<group>"; };
 		F610567627D0300000174BC0 /* StateController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StateController.swift; sourceTree = "<group>"; };
+		F658EC3227D6AA2400D7813B /* ITunesAdaptor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ITunesAdaptor.swift; sourceTree = "<group>"; };
 		F6CE38F327D0B9A4005A9A32 /* ArtistResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArtistResponse.swift; sourceTree = "<group>"; };
 		F6CE38F527D0B9D5005A9A32 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -112,6 +114,7 @@
 				F610564D27D0217300174BC0 /* Preview Content */,
 				F610567127D0226E00174BC0 /* LocationHandler.swift */,
 				F610567627D0300000174BC0 /* StateController.swift */,
+				F658EC3227D6AA2400D7813B /* ITunesAdaptor.swift */,
 			);
 			path = MusicByLocation;
 			sourceTree = "<group>";
@@ -289,6 +292,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				F610567227D0226E00174BC0 /* LocationHandler.swift in Sources */,
+				F658EC3327D6AA2400D7813B /* ITunesAdaptor.swift in Sources */,
 				F610564A27D0216E00174BC0 /* ContentView.swift in Sources */,
 				F610564827D0216E00174BC0 /* MusicByLocationApp.swift in Sources */,
 				F610567527D02EDB00174BC0 /* CLPlacemark.swift in Sources */,
